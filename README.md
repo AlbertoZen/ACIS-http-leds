@@ -1,2 +1,4 @@
 # ACIS-http-leds
-Controlling LEDs light using a http get request
+Controlling WS2812B LED light strip using http get requests
+
+A lot more to do...
