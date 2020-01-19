@@ -13,8 +13,8 @@
 */
 
 // Initialization of the WiFi
-const char* SSID = "CASETTA-2G";
-const char* PASSWORD = "Chioggia78";
+const char* SSID = "xxxxxxxxx";
+const char* PASSWORD = "xxxxxxxx";
 
 #define SERVER_HOST_NAME "esp_server"
 
